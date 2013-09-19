@@ -1,4 +1,4 @@
 Multimedia
 ==========
 
-This repo contains style guide based graphics.
+This repo contains style guide based multimedia.
